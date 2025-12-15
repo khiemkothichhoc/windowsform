@@ -43,7 +43,7 @@ namespace BT1
         {
             try
             {
-                string filePath = Path.Combine(@"C:\Users\Gia Khiem\Desktop\bth3\bth3\BT1\bin\Debug", "Save.txt");
+                string filePath = Path.Combine(@"C:\Users\Gia Khiem\Downloads\b4\b4\BT1\bin\Debug", "Save.txt");
 
                 string quyenTruyCap = radWinDow.Checked ? "Windows Authentication" : "SQL Authentication";
                 string serverName = txtTenMay.Text;
@@ -71,7 +71,7 @@ namespace BT1
         {
             try
             {
-                string filePath = Path.Combine(@"C:\Users\Gia Khiem\Desktop\bth3\bth3\BT1\bin\Debug", "Save.txt");
+                string filePath = Path.Combine(@"C:\Users\Gia Khiem\Downloads\b4\b4\BT1\bin\Debug", "Save.txt");
 
                 if (File.Exists(filePath))
                 {

@@ -1,0 +1,5 @@
+QuyenTruyCap =  Windows Authentication
+Server =  
+Database =  
+Account =  
+Password =  

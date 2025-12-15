@@ -17,7 +17,7 @@ namespace BT1
         ClsCSDL dataHelper = new ClsCSDL();
         SqlCommand cmd = new SqlCommand();
         SqlDataReader dr = null;
-        string connectionString = "Server=DESKTOP-A4M823E\\SQLEXPRESS;Database=quanlythuvien;Integrated Security=True";
+        string connectionString = "Server=khiemmini\\SQLEXPRESS;Database=quanlythuvien;Integrated Security=True";
         public frmQuanLyNhanVien()
         {
             InitializeComponent();           

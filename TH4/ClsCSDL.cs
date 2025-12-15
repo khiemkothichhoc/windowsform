@@ -14,7 +14,7 @@ namespace BT1
         {
             try
             {
-                connectionString = "Server=DESKTOP-A4M621E\\SQLEXPRESS;Database=quanlythuvien;Integrated Security=True";
+                connectionString = "Server=khiemmini\\SQLEXPRESS;Database=quanlythuvien;Integrated Security=True";
                 conn = new SqlConnection(connectionString);
                 conn.Open();
                 
@@ -80,7 +80,7 @@ namespace BT1
         {
             if (dt == null || string.IsNullOrEmpty(tenbang)) return;
 
-            SqlConnection conn = new SqlConnection("Server=DESKTOP-A4M621E\\SQLEXPRESS;Database=QuanLyThuVien;Integrated Security=True");
+            SqlConnection conn = new SqlConnection("Server=khiemmini\\SQLEXPRESS;Database=quanlythuvien;Integrated Security=True");
             conn.Open();
 
             string query = $"SELECT * FROM {tenbang}";

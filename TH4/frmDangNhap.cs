@@ -34,7 +34,7 @@ namespace BT1
 
             try
             {
-                dataHelper.KetNoi("Server=DESKTOP-A4M823E\\SQLEXPRESS;Database=quanlythuvien;Integrated Security=True");
+                dataHelper.KetNoi("Server=khiemmini\\SQLEXPRESS;Database=quanlythuvien;Integrated Security=True");
 
                 string query = $"SELECT * FROM nhanvien WHERE tendn = '{taiKhoan}' AND matkhau = '{matKhau}'";
 
