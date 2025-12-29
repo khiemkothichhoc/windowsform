@@ -1,0 +1,10 @@
+C:\Users\Gia Khiem\source\repos\ktraaa\bin\Debug\ktraaa.exe.config
+C:\Users\Gia Khiem\source\repos\ktraaa\bin\Debug\ktraaa.exe
+C:\Users\Gia Khiem\source\repos\ktraaa\bin\Debug\ktraaa.pdb
+C:\Users\Gia Khiem\source\repos\ktraaa\obj\Debug\ktraaa.csproj.AssemblyReference.cache
+C:\Users\Gia Khiem\source\repos\ktraaa\obj\Debug\ktraaa.Form1.resources
+C:\Users\Gia Khiem\source\repos\ktraaa\obj\Debug\ktraaa.Properties.Resources.resources
+C:\Users\Gia Khiem\source\repos\ktraaa\obj\Debug\ktraaa.csproj.GenerateResource.cache
+C:\Users\Gia Khiem\source\repos\ktraaa\obj\Debug\ktraaa.csproj.CoreCompileInputs.cache
+C:\Users\Gia Khiem\source\repos\ktraaa\obj\Debug\ktraaa.exe
+C:\Users\Gia Khiem\source\repos\ktraaa\obj\Debug\ktraaa.pdb
